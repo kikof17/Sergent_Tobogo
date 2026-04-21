@@ -12,7 +12,7 @@
         {
           "id": "creator-xs-noi-5-2",
           "size": "XS",
-          "color": "NOI",
+          "color": "Noir",
           "detail": null,
           "quantity": 5,
           "threshold": 2,
@@ -21,7 +21,7 @@
         {
           "id": "creator-xs-blu-5-4",
           "size": "XS",
-          "color": "BLU",
+          "color": "Bleu",
           "detail": null,
           "quantity": 5,
           "threshold": 2,
@@ -30,7 +30,7 @@
         {
           "id": "creator-s-gri-5-11",
           "size": "S",
-          "color": "GRI",
+          "color": "Gris",
           "detail": null,
           "quantity": 0,
           "threshold": 2,
@@ -48,7 +48,7 @@
         {
           "id": "creator-s-rou-5-13",
           "size": "S",
-          "color": "ROU",
+          "color": "Rouge",
           "detail": null,
           "quantity": 5,
           "threshold": 2,
@@ -57,7 +57,7 @@
         {
           "id": "creator-s-beig-5-14",
           "size": "S",
-          "color": "BEIG",
+          "color": "Beige",
           "detail": null,
           "quantity": 0,
           "threshold": 2,
@@ -66,7 +66,7 @@
         {
           "id": "creator-s-bla-5-15",
           "size": "S",
-          "color": "BLA",
+          "color": "Blanc",
           "detail": null,
           "quantity": 0,
           "threshold": 2,
@@ -75,7 +75,7 @@
         {
           "id": "creator-s-bord-5-16",
           "size": "S",
-          "color": "BORD",
+          "color": "Bordeaux",
           "detail": null,
           "quantity": 15,
           "threshold": 2,
@@ -84,7 +84,7 @@
         {
           "id": "creator-s-oce-5-17",
           "size": "S",
-          "color": "OCE",
+          "color": "Océan",
           "detail": null,
           "quantity": 30,
           "threshold": 2,
@@ -228,7 +228,7 @@
         {
           "id": "creator-4xl-blanc-5-60",
           "size": "4XL",
-          "color": "BLANC",
+          "color": "Blanc",
           "detail": null,
           "quantity": 5,
           "threshold": 2,

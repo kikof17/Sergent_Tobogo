@@ -63,6 +63,24 @@ function pickDefaultVariantId(product: StockProduct | null) {
   return product?.variants[0]?.id ?? ''
 }
 
+// Table de correspondance pour les couleurs
+const COLOR_MAP: Record<string, string> = {
+  NOI: 'Noir',
+  BLU: 'Bleu',
+  GRI: 'Gris',
+  ROU: 'Rouge',
+  BEIG: 'Beige',
+  BLA: 'Blanc',
+  BLANC: 'Blanc',
+  BORD: 'Bordeaux',
+  OCE: 'Océan',
+};
+
+function normalizeColor(value: string): string {
+  const key = value.trim().toUpperCase()
+  return COLOR_MAP[key] || value.charAt(0).toUpperCase() + value.slice(1).toLowerCase()
+}
+
 function App() {
   const [loadState, setLoadState] = useState<LoadState>('idle')
   const [errorMessage, setErrorMessage] = useState('')
@@ -408,7 +426,7 @@ function App() {
                           onClick={() => setSelectedVariantId(variant.id)}
                         >
                           <span>
-                            {variant.size} · {variant.color}
+                            {variant.size} · {normalizeColor(variant.color)}
                           </span>
                           <span>{variant.detail || variant.lineLabel || 'Standard'}</span>
                           <strong className={low ? 'stock-low' : ''}>{variant.quantity}</strong>
@@ -438,7 +456,7 @@ function App() {
                 >
                   {selectedProduct?.variants.map((variant) => (
                     <option key={variant.id} value={variant.id}>
-                      {variant.size} · {variant.color} · {variant.detail || 'standard'}
+                      {variant.size} · {normalizeColor(variant.color)} · {variant.detail || 'standard'}
                     </option>
                   ))}
                 </select>

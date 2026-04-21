@@ -30,6 +30,19 @@ class Header:
     color: str
 
 
+# Table de correspondance pour les couleurs
+COLOR_MAP = {
+    "NOI": "Noir",
+    "BLU": "Bleu",
+    "GRI": "Gris",
+    "ROU": "Rouge",
+    "BEIG": "Beige",
+    "BLA": "Blanc",
+    "BLANC": "Blanc",
+    "BORD": "Bordeaux",
+    "OCE": "Océan",
+}
+
 def normalize_text(value: object) -> str:
     text = str(value or "").replace("\n", " ")
     text = re.sub(r"\s+", " ", text).strip(" ,")
@@ -38,14 +51,11 @@ def normalize_text(value: object) -> str:
         text = text.replace(" ", "")
     return text
 
-
 def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
 
-
 def looks_like_size_row(values: list[str]) -> bool:
     return sum(value in SIZE_TOKENS for value in values) >= 2
-
 
 def has_numeric_cells(values: Iterable[object]) -> bool:
     for value in values:
@@ -58,7 +68,6 @@ def has_numeric_cells(values: Iterable[object]) -> bool:
         return True
     return False
 
-
 def parse_float(value: object) -> float | None:
     if value in ("", None):
         return None
@@ -67,6 +76,9 @@ def parse_float(value: object) -> float | None:
     except (TypeError, ValueError):
         return None
 
+def normalize_color(value: str) -> str:
+    value = value.strip().upper()
+    return COLOR_MAP.get(value, value.title())
 
 def build_headers(sheet: xlrd.sheet.Sheet, size_row_idx: int, color_row_idx: int) -> dict[int, Header]:
     headers: dict[int, Header] = {}
@@ -80,10 +92,9 @@ def build_headers(sheet: xlrd.sheet.Sheet, size_row_idx: int, color_row_idx: int
             current_size = size
 
         if current_size and color:
-            headers[col] = Header(size=current_size, color=color)
+            headers[col] = Header(size=current_size, color=normalize_color(color))
 
     return headers
-
 
 def parse_product_name(row: list[str], previous_label: str | None) -> tuple[str | None, str | None]:
     first = row[0]
@@ -100,7 +111,6 @@ def parse_product_name(row: list[str], previous_label: str | None) -> tuple[str 
         return first, previous_label
 
     return None, previous_label
-
 
 def parse_sheet(sheet: xlrd.sheet.Sheet) -> list[dict[str, object]]:
     products: list[dict[str, object]] = []
