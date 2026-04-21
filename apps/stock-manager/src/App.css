@@ -150,6 +150,11 @@
   gap: 10px;
 }
 
+.metric-card p,
+.metric-card span {
+  margin: 0;
+}
+
 .metric-card strong {
   font-size: clamp(1.8rem, 3vw, 2.8rem);
   color: var(--text-h);
@@ -345,238 +350,46 @@
     justify-items: start;
     text-align: left;
   }
-}.app-shell {
+}
+
+.journal-page {
+  padding: 32px 0;
+}
+.journal-toolbar {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.journal-list {
   display: grid;
   gap: 24px;
 }
-
-.hero-panel,
-.inventory-panel,
-.status-card,
-.activity-card,
-.metric-card {
-  background: rgba(255, 248, 239, 0.86);
-  border: 1px solid rgba(84, 58, 37, 0.12);
-  box-shadow: 0 18px 50px rgba(48, 30, 10, 0.08);
+.journal-group {
+  background: #f8fafc;
+  border-radius: 18px;
+  padding: 18px 22px;
+  box-shadow: 0 2px 8px #0001;
 }
-
-.hero-panel {
+.journal-group h3 {
+  margin: 0 0 10px 0;
+  color: #1e6f5c;
+  font-size: 1.1rem;
+}
+.journal-row {
   display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(280px, 0.8fr);
-  gap: 20px;
-  padding: 28px;
-  border-radius: 32px;
-}
-
-.hero-copy {
-  display: grid;
-  gap: 16px;
-}
-
-.eyebrow,
-.card-kicker {
-  margin: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.18em;
-  font-size: 0.75rem;
-  color: var(--accent-strong);
-}
-
-.hero-text {
-  max-width: 62ch;
-}
-
-.hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-}
-
-.primary-action,
-.secondary-action {
-  appearance: none;
-  border-radius: 999px;
-  padding: 0.9rem 1.2rem;
-  font: inherit;
-  cursor: pointer;
-  transition:
-    transform 180ms ease,
-    box-shadow 180ms ease,
-    background-color 180ms ease;
-}
-
-.primary-action {
-  border: none;
-  background: linear-gradient(135deg, #1e6f5c, #0f3d34);
-  color: #f9f2e8;
-}
-
-.secondary-action {
-  border: 1px solid rgba(30, 111, 92, 0.22);
-  background: rgba(249, 242, 232, 0.92);
-  color: var(--text-h);
-}
-
-.primary-action:hover,
-.secondary-action:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 12px 24px rgba(33, 23, 11, 0.1);
-}
-
-.hero-card {
-  padding: 22px;
-  border-radius: 24px;
-  background:
-    radial-gradient(circle at top, rgba(220, 133, 81, 0.18), transparent 50%),
-    #1f3a32;
-  color: #f7efe6;
-}
-
-.hero-card h2,
-.hero-card ol,
-.hero-card p {
-  color: inherit;
-}
-
-.hero-card ol {
-  margin: 14px 0 0;
-  padding-left: 1.1rem;
-  display: grid;
-  gap: 10px;
-}
-
-.metrics-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
-}
-
-.metric-card {
-  padding: 20px;
-  border-radius: 24px;
-  display: grid;
-  gap: 10px;
-}
-
-.metric-card p,
-.metric-card span {
-  margin: 0;
-}
-
-.metric-card strong {
-  font-size: clamp(1.8rem, 3vw, 2.8rem);
-  color: var(--text-h);
-}
-
-.workspace-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.85fr);
-  gap: 20px;
-}
-
-.inventory-panel,
-.status-card,
-.activity-card {
-  border-radius: 28px;
-  padding: 24px;
-}
-
-.section-heading,
-.row-headline,
-.activity-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-}
-
-.pill,
-.row-badge {
-  display: inline-flex;
+  grid-template-columns: 90px 1fr 60px 90px 60px 1fr 160px;
   align-items: center;
-  border-radius: 999px;
-  padding: 0.35rem 0.7rem;
-  background: rgba(30, 111, 92, 0.09);
-  color: var(--accent-strong);
-  font-size: 0.85rem;
-}
-
-.inventory-list,
-.side-stack,
-.activity-list {
-  display: grid;
-  gap: 14px;
-}
-
-.inventory-row,
-.activity-row {
-  align-items: center;
-  padding: 16px 0;
-  border-top: 1px solid rgba(84, 58, 37, 0.1);
-}
-
-.inventory-row:first-child,
-.activity-row:first-child {
-  border-top: none;
-}
-
-.inventory-row h3,
-.activity-row h3,
-.section-heading h2,
-.status-card h2 {
-  margin: 0;
-}
-
-.inventory-row p,
-.activity-row p,
-.status-card ul {
-  margin: 6px 0 0;
-}
-
-.inventory-row strong,
-.activity-meta strong {
-  font-size: 1.4rem;
-  color: var(--text-h);
-}
-
-.activity-meta {
-  display: grid;
-  justify-items: end;
-  gap: 4px;
-  text-align: right;
-}
-
-.status-card ul {
-  padding-left: 1rem;
-  display: grid;
   gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid #ececec;
+  font-size: 0.98rem;
 }
-
-@media (max-width: 960px) {
-  .hero-panel,
-  .workspace-grid,
-  .metrics-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .hero-panel,
-  .inventory-panel,
-  .status-card,
-  .activity-card {
-    padding: 20px;
-    border-radius: 24px;
-  }
+.journal-row:last-child {
+  border-bottom: none;
 }
-
-@media (max-width: 640px) {
-  .section-heading,
-  .row-headline,
-  .activity-row,
-  .inventory-row {
-    display: grid;
-  }
-
-  .activity-meta {
-    justify-items: start;
-    text-align: left;
-  }
+.journal-row span {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
