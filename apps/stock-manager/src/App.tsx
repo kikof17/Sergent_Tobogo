@@ -99,8 +99,8 @@ function getColorSwatch(color: string): string {
   return COLOR_CSS_MAP[key] || '#eee'
 }
 
-// Regroupe les variantes par taille
-function groupVariantsBySize(variants: typeof selectedProduct.variants) {
+// Correction de la signature :
+function groupVariantsBySize(variants: { size: string }[]) {
   const map: Record<string, typeof variants> = {};
   for (const variant of variants) {
     if (!map[variant.size]) map[variant.size] = [];
@@ -459,7 +459,7 @@ function App() {
                             border: '1px solid #e0e0e0',
                           }}>
                             <div style={{fontWeight: 600, marginBottom: 6, color: '#1e6f5c'}}>{size}</div>
-                            {variants.map((variant) => {
+                            {variants.map((variant: any) => {
                               const low = variant.quantity <= variant.threshold
                               return (
                                 <button
@@ -468,11 +468,7 @@ function App() {
                                   type="button"
                                   onClick={() => setSelectedVariantId(variant.id)}
                                 >
-                                  <span style={{
-                                    display: 'inline-flex',
-                                    alignItems: 'center',
-                                    gap: 8,
-                                  }}>
+                                  <span style={{display: 'inline-flex', alignItems: 'center', gap: 8}}>
                                     <span style={{
                                       display: 'inline-block',
                                       width: 18,
@@ -488,7 +484,7 @@ function App() {
                                   <span>{variant.detail || variant.lineLabel || 'Standard'}</span>
                                   <strong className={low ? 'stock-low' : ''}>{variant.quantity}</strong>
                                 </button>
-                              )
+                              );
                             })}
                           </div>
                         ))}
