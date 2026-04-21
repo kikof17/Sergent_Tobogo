@@ -2,7 +2,7 @@ import type { MovementsData, RepoFile, StockData } from '../types'
 
 const owner = import.meta.env.VITE_GITHUB_OWNER ?? 'kikof17'
 const repo = import.meta.env.VITE_GITHUB_REPO ?? 'Sergent_Tobogo'
-const branch = import.meta.env.VITE_GITHUB_BRANCH ?? 'main'
+const branch = import.meta.env.VITE_GITHUB_BRANCH ?? 'master'
 
 const repoPaths = {
   products: 'data/stock/products.json',
