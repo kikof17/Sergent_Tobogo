@@ -1,0 +1,3057 @@
+{
+  "updatedAt": "2026-04-21T15:59:57.702677+00:00",
+  "source": "Stock Tshirts.xls",
+  "products": [
+    {
+      "id": "homme-creator",
+      "name": "CREATOR",
+      "category": "Homme",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "creator-xs-noi-5-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xs-blu-5-4",
+          "size": "XS",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-gri-5-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-blu-5-12",
+          "size": "S",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-rou-5-13",
+          "size": "S",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-beig-5-14",
+          "size": "S",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-bla-5-15",
+          "size": "S",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-bord-5-16",
+          "size": "S",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-oce-5-17",
+          "size": "S",
+          "color": "OCE",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-rou-5-21",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-bla-5-23",
+          "size": "M",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-rou-5-29",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-bla-5-31",
+          "size": "M",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-rou-5-37",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-bla-5-39",
+          "size": "M",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xxl-rou-5-45",
+          "size": "XXL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xxl-beig-5-46",
+          "size": "XXL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xxl-bla-5-47",
+          "size": "XXL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-noi-5-50",
+          "size": "3XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-blu-5-52",
+          "size": "3XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-rou-5-53",
+          "size": "3XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-beig-5-54",
+          "size": "3XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-bla-5-55",
+          "size": "3XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-bord-5-56",
+          "size": "3XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-4xl-blanc-5-60",
+          "size": "4XL",
+          "color": "BLANC",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-4xl-blu-5-61",
+          "size": "4XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 14,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-4xl-bord-5-62",
+          "size": "4XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-4xl-rou-5-63",
+          "size": "4XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-4xl-noi-5-65",
+          "size": "4XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 19,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-5xl-bla-5-67",
+          "size": "5XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 11,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-5xl-blu-5-68",
+          "size": "5XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-5xl-bord-5-69",
+          "size": "5XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 4,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-5xl-rou-5-70",
+          "size": "5XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-gri-6-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-gri-6-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-gri-6-27",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-gri-6-35",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-3xl-bla-6-55",
+          "size": "3XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-s-gri-7-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-m-gri-7-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xxl-noi-7-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-xxl-gri-7-43",
+          "size": "XXL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "homme-creator-2-0",
+      "name": "CREATOR 2.0",
+      "category": "Homme",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "creator-2-0-xs-noi-12-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-gri-12-3",
+          "size": "XS",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-blu-12-4",
+          "size": "XS",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-rou-12-5",
+          "size": "XS",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-beig-12-6",
+          "size": "XS",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-bord-12-7",
+          "size": "XS",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-bla-12-8",
+          "size": "XS",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xs-sta-12-9",
+          "size": "XS",
+          "color": "STA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-noi-12-10",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 50,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-gri-12-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-blu-12-12",
+          "size": "S",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-rou-12-13",
+          "size": "S",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-beig-12-14",
+          "size": "S",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-bla-12-15",
+          "size": "S",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-bord-12-16",
+          "size": "S",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-s-sta-12-17",
+          "size": "S",
+          "color": "STA",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-noi-12-18",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 85,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-gri-12-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-blu-12-20",
+          "size": "M",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-rou-12-21",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-beig-12-22",
+          "size": "M",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-bla-12-23",
+          "size": "M",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-bord-12-24",
+          "size": "M",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-m-sta-12-25",
+          "size": "M",
+          "color": "STA",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-noi-12-26",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 70,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-gri-12-27",
+          "size": "L",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-blu-12-28",
+          "size": "L",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 65,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-rou-12-29",
+          "size": "L",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-beig-12-30",
+          "size": "L",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-bla-12-31",
+          "size": "L",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-bord-12-32",
+          "size": "L",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-l-sta-12-33",
+          "size": "L",
+          "color": "STA",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-noi-12-34",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 60,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-gri-12-35",
+          "size": "XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-blu-12-36",
+          "size": "XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-rou-12-37",
+          "size": "XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-beig-12-38",
+          "size": "XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-bla-12-39",
+          "size": "XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-bord-12-40",
+          "size": "XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xl-sta-12-41",
+          "size": "XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-noi-12-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 55,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-gri-12-43",
+          "size": "XXL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-blu-12-44",
+          "size": "XXL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-rou-12-45",
+          "size": "XXL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-beig-12-46",
+          "size": "XXL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-bla-12-47",
+          "size": "XXL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-bord-12-48",
+          "size": "XXL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-xxl-sta-12-49",
+          "size": "XXL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-noi-12-50",
+          "size": "3XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-gri-12-51",
+          "size": "3XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-blu-12-52",
+          "size": "3XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-rou-12-53",
+          "size": "3XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-beig-12-54",
+          "size": "3XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-bla-12-55",
+          "size": "3XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-bord-12-56",
+          "size": "3XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-3xl-sta-12-57",
+          "size": "3XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-noi-12-58",
+          "size": "4XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-gri-12-59",
+          "size": "4XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-blanc-12-60",
+          "size": "4XL",
+          "color": "BLANC",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-blu-12-61",
+          "size": "4XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 7,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-bord-12-62",
+          "size": "4XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-rou-12-63",
+          "size": "4XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-oce-12-64",
+          "size": "4XL",
+          "color": "OCE",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-4xl-noi-12-65",
+          "size": "4XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-gri-12-66",
+          "size": "5XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-bla-12-67",
+          "size": "5XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-blu-12-68",
+          "size": "5XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-bord-12-69",
+          "size": "5XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-rou-12-70",
+          "size": "5XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "creator-2-0-5xl-oce-12-71",
+          "size": "5XL",
+          "color": "OCE",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "femme-expresser-serena",
+      "name": "EXPRESSER + SERENA",
+      "category": "Femme",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "expresser-serena-xs-gri-22-3",
+          "size": "XS",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xs-blu-22-4",
+          "size": "XS",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xs-rou-22-5",
+          "size": "XS",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-s-gri-22-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-s-rou-22-13",
+          "size": "S",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-s-bord-22-16",
+          "size": "S",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-m-rou-22-21",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-m-bord-22-24",
+          "size": "M",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-l-gri-22-27",
+          "size": "L",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-l-rou-22-29",
+          "size": "L",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-l-bord-22-32",
+          "size": "L",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-gri-22-35",
+          "size": "XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 50,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-rou-22-37",
+          "size": "XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-beig-22-38",
+          "size": "XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-bla-22-39",
+          "size": "XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-bord-22-40",
+          "size": "XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xl-sta-22-41",
+          "size": "XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xxl-gri-22-43",
+          "size": "XXL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xxl-rou-22-45",
+          "size": "XXL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xxl-beig-22-46",
+          "size": "XXL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xxl-bla-22-47",
+          "size": "XXL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 55,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-xxl-bord-22-48",
+          "size": "XXL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-5-0-10-0-22-52",
+          "size": "5.0",
+          "color": "10.0",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "expresser-serena-5-0-10-0-23-52",
+          "size": "5.0",
+          "color": "10.0",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "femme-muser",
+      "name": "MUSER",
+      "category": "Femme",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "muser-xs-noi-32-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-gri-32-3",
+          "size": "XS",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-blu-32-4",
+          "size": "XS",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-rou-32-5",
+          "size": "XS",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-b1-32-6",
+          "size": "XS",
+          "color": "B1",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-b2-32-7",
+          "size": "XS",
+          "color": "B2",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-bord-32-8",
+          "size": "XS",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-sta-32-9",
+          "size": "XS",
+          "color": "STA",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-noi-32-10",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-gri-32-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-blu-32-12",
+          "size": "S",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-rou-32-13",
+          "size": "S",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-b1-32-14",
+          "size": "S",
+          "color": "B1",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-b2-32-15",
+          "size": "S",
+          "color": "B2",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-bord-32-16",
+          "size": "S",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-sta-32-17",
+          "size": "S",
+          "color": "STA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-noi-32-18",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-gri-32-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-blu-32-20",
+          "size": "M",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-rou-32-21",
+          "size": "M",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-b1-32-22",
+          "size": "M",
+          "color": "B1",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-b2-32-23",
+          "size": "M",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-bord-32-24",
+          "size": "M",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-sta-32-25",
+          "size": "M",
+          "color": "STA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-noi-32-26",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-gri-32-27",
+          "size": "L",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-blu-32-28",
+          "size": "L",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-rou-32-29",
+          "size": "L",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-b1-32-30",
+          "size": "L",
+          "color": "B1",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-b2-32-31",
+          "size": "L",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-bord-32-32",
+          "size": "L",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-sta-32-33",
+          "size": "L",
+          "color": "STA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-noi-32-34",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-gri-32-35",
+          "size": "XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-blu-32-36",
+          "size": "XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-rou-32-37",
+          "size": "XL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-b1-32-38",
+          "size": "XL",
+          "color": "B1",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-b2-32-39",
+          "size": "XL",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-bord-32-40",
+          "size": "XL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-sta-32-41",
+          "size": "XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-noi-32-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-gri-32-43",
+          "size": "XXL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-blu-32-44",
+          "size": "XXL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-rou-32-45",
+          "size": "XXL",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-b1-32-46",
+          "size": "XXL",
+          "color": "B1",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-b2-32-47",
+          "size": "XXL",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-bord-32-48",
+          "size": "XXL",
+          "color": "BORD",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-sta-32-49",
+          "size": "XXL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-noi-33-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-gri-33-3",
+          "size": "XS",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xs-b2-33-7",
+          "size": "XS",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-noi-33-10",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-gri-33-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-s-b2-33-15",
+          "size": "S",
+          "color": "B2",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-noi-33-18",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-gri-33-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-m-b2-33-23",
+          "size": "M",
+          "color": "B2",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-noi-33-26",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-gri-33-27",
+          "size": "L",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-l-b2-33-31",
+          "size": "L",
+          "color": "B2",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-noi-33-34",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 30,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-gri-33-35",
+          "size": "XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xl-b2-33-39",
+          "size": "XL",
+          "color": "B2",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-noi-33-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-gri-33-43",
+          "size": "XXL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "muser-xxl-b2-33-47",
+          "size": "XXL",
+          "color": "B2",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "enfant-mini-creator",
+      "name": "MINI-CREATOR",
+      "category": "Enfant",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "mini-creator-3-4-ans-noi-40-2",
+          "size": "3/4 ans",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-gri-40-3",
+          "size": "3/4 ans",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-blu-40-4",
+          "size": "3/4 ans",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-rou-40-5",
+          "size": "3/4 ans",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-bla-40-6",
+          "size": "3/4 ans",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-jau-40-7",
+          "size": "3/4 ans",
+          "color": "JAU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-sau-40-8",
+          "size": "3/4 ans",
+          "color": "SAU",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-vert-40-9",
+          "size": "3/4 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-ble-40-10",
+          "size": "3/4 ans",
+          "color": "BLE",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-noi-40-12",
+          "size": "5/6 ans",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-gri-40-13",
+          "size": "5/6 ans",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-blu-40-14",
+          "size": "5/6 ans",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-rou-40-15",
+          "size": "5/6 ans",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-bla-40-16",
+          "size": "5/6 ans",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-jau-40-17",
+          "size": "5/6 ans",
+          "color": "JAU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-ver-40-18",
+          "size": "5/6 ans",
+          "color": "VER",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-sau-40-19",
+          "size": "5/6 ans",
+          "color": "SAU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-ros-40-20",
+          "size": "5/6 ans",
+          "color": "ROS",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-ble-40-21",
+          "size": "5/6 ans",
+          "color": "BLE",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-vert-40-22",
+          "size": "5/6 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-noi-40-23",
+          "size": "7/8 ans",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-gri-40-24",
+          "size": "7/8 ans",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-blu-40-25",
+          "size": "7/8 ans",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-rou-40-26",
+          "size": "7/8 ans",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-bla-40-27",
+          "size": "7/8 ans",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-jau-40-28",
+          "size": "7/8 ans",
+          "color": "JAU",
+          "detail": null,
+          "quantity": 35,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-ver-40-29",
+          "size": "7/8 ans",
+          "color": "VER",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-sau-40-30",
+          "size": "7/8 ans",
+          "color": "SAU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-ros-40-31",
+          "size": "7/8 ans",
+          "color": "ROS",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-ble-40-32",
+          "size": "7/8 ans",
+          "color": "BLE",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-vert-40-33",
+          "size": "7/8 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-noi-40-34",
+          "size": "9/11 ans",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-gri-40-35",
+          "size": "9/11 ans",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-blu-40-36",
+          "size": "9/11 ans",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-rou-40-37",
+          "size": "9/11 ans",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-bla-40-38",
+          "size": "9/11 ans",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-jau-40-39",
+          "size": "9/11 ans",
+          "color": "JAU",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-ver-40-40",
+          "size": "9/11 ans",
+          "color": "VER",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-sau-40-41",
+          "size": "9/11 ans",
+          "color": "SAU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-ros-40-42",
+          "size": "9/11 ans",
+          "color": "ROS",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-ble-40-43",
+          "size": "9/11 ans",
+          "color": "BLE",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-vert-40-44",
+          "size": "9/11 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-noi-40-45",
+          "size": "12/14 ans",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-gri-40-46",
+          "size": "12/14 ans",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-blu-40-47",
+          "size": "12/14 ans",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-rou-40-48",
+          "size": "12/14 ans",
+          "color": "ROU",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-bla-40-49",
+          "size": "12/14 ans",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-jau-40-50",
+          "size": "12/14 ans",
+          "color": "JAU",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-ver-40-51",
+          "size": "12/14 ans",
+          "color": "VER",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-sau-40-52",
+          "size": "12/14 ans",
+          "color": "SAU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-ros-40-53",
+          "size": "12/14 ans",
+          "color": "ROS",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-ble-40-54",
+          "size": "12/14 ans",
+          "color": "BLE",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-vert-40-55",
+          "size": "12/14 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-3-4-ans-vert-41-9",
+          "size": "3/4 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-5-6-ans-vert-41-22",
+          "size": "5/6 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-7-8-ans-vert-41-33",
+          "size": "7/8 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-9-11-ans-vert-41-44",
+          "size": "9/11 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "mini-creator-12-14-ans-vert-41-55",
+          "size": "12/14 ans",
+          "color": "VERT",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "enfant-sweat",
+      "name": "SWEAT",
+      "category": "Enfant",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "sweat-xs-noi-47-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 1,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xs-beig-47-3",
+          "size": "XS",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xs-sta-47-4",
+          "size": "XS",
+          "color": "STA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-s-noi-47-10",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-s-beig-47-11",
+          "size": "S",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 6,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-s-sta-47-12",
+          "size": "S",
+          "color": "STA",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-m-noi-47-18",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-m-beig-47-19",
+          "size": "M",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 9,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-m-sta-47-20",
+          "size": "M",
+          "color": "STA",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-l-noi-47-26",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 13,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-l-beig-47-27",
+          "size": "L",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-l-sta-47-28",
+          "size": "L",
+          "color": "STA",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xl-noi-47-34",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xl-beig-47-35",
+          "size": "XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 6,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xl-sta-47-36",
+          "size": "XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xxl-noi-47-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xxl-beig-47-43",
+          "size": "XXL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-xxl-sta-47-44",
+          "size": "XXL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 1,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-3xl-noi-47-50",
+          "size": "3XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 4,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-3xl-beig-47-51",
+          "size": "3XL",
+          "color": "BEIG",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": null
+        },
+        {
+          "id": "sweat-3xl-sta-47-52",
+          "size": "3XL",
+          "color": "STA",
+          "detail": null,
+          "quantity": 1,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    },
+    {
+      "id": "total-debardeur-femme",
+      "name": "DEBARDEUR FEMME",
+      "category": "Total",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "debardeur-femme-xs-noi-56-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xs-gri-56-3",
+          "size": "XS",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xs-blu-56-4",
+          "size": "XS",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xs-bla-56-6",
+          "size": "XS",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-s-noi-56-10",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 38,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-s-gri-56-11",
+          "size": "S",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-s-blu-56-12",
+          "size": "S",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 16,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-s-bla-56-14",
+          "size": "S",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-m-noi-56-18",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 48,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-m-gri-56-19",
+          "size": "M",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-m-blu-56-20",
+          "size": "M",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 18,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-l-noi-56-26",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 43,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-l-gri-56-27",
+          "size": "L",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-l-blu-56-28",
+          "size": "L",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 13,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-l-bla-56-30",
+          "size": "L",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xl-noi-56-34",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 25,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xl-gri-56-35",
+          "size": "XL",
+          "color": "GRI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xl-blu-56-36",
+          "size": "XL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 18,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xl-bla-56-38",
+          "size": "XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xxl-noi-56-42",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 20,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xxl-blu-56-44",
+          "size": "XXL",
+          "color": "BLU",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "debardeur-femme-xxl-bla-56-46",
+          "size": "XXL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 15,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        }
+      ]
+    },
+    {
+      "id": "total-homme",
+      "name": "HOMME",
+      "category": "Total",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "homme-s-noi-63-2",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 14,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-s-blc-63-3",
+          "size": "S",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-m-noi-63-4",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-m-blc-63-5",
+          "size": "M",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-l-noi-63-6",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 13,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-l-blc-63-7",
+          "size": "L",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 6,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-xl-noi-63-9",
+          "size": "XL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 13,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-xl-blc-63-10",
+          "size": "XL",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 9,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-xxl-noi-63-11",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-xxl-blc-63-12",
+          "size": "XXL",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "homme-xxxl-noir-63-13",
+          "size": "XXXL",
+          "color": "NOIR",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        }
+      ]
+    },
+    {
+      "id": "total-femme",
+      "name": "FEMME",
+      "category": "Total",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "femme-xs-noi-69-2",
+          "size": "XS",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 2,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xs-blc-69-3",
+          "size": "XS",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-s-noi-69-4",
+          "size": "S",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 7,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-s-blc-69-5",
+          "size": "S",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-m-noi-69-6",
+          "size": "M",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 7,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-m-blc-69-7",
+          "size": "M",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-l-noi-69-9",
+          "size": "L",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-l-blc-69-10",
+          "size": "L",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 9,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xl-noir-69-11",
+          "size": "XL",
+          "color": "NOIR",
+          "detail": null,
+          "quantity": 10,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xl-blc-69-12",
+          "size": "XL",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 8,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xxl-noi-69-13",
+          "size": "XXL",
+          "color": "NOI",
+          "detail": null,
+          "quantity": 7,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xxl-blc-69-14",
+          "size": "XXL",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 0,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xxxl-noir-69-16",
+          "size": "XXXL",
+          "color": "NOIR",
+          "detail": null,
+          "quantity": 3,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        },
+        {
+          "id": "femme-xxxl-blc-69-17",
+          "size": "XXXL",
+          "color": "BLC",
+          "detail": null,
+          "quantity": 5,
+          "threshold": 2,
+          "lineLabel": "Stock"
+        }
+      ]
+    },
+    {
+      "id": "total-c2",
+      "name": "C2",
+      "category": "Total",
+      "collection": null,
+      "sourceSheet": "Feuil1",
+      "variants": [
+        {
+          "id": "c2-3xl-bla-76-55",
+          "size": "3XL",
+          "color": "BLA",
+          "detail": null,
+          "quantity": 40,
+          "threshold": 2,
+          "lineLabel": null
+        }
+      ]
+    }
+  ]
+}
